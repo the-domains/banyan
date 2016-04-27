@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[banyan]]></title>
         <description><![CDATA[banyan]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/banyan/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 27 Apr 2016 22:27:17 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 27 Apr 2016 22:33:14 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/banyan/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Pool Maintenance]]></title>
             <description><![CDATA[<p>Last year we did major work on the deck surrounding the swimming pool. This led to a revision of our drain line replacement schedule.</p>]]></description>
-            <link>undefinedpool-maintenance/index.html</link>
+            <link>https://thegrid.ai/banyan/pool-maintenance/index.html</link>
             <guid isPermaLink="false">b6ff876b-5306-4999-9a6c-44ca8cf898b3</guid>
-            <pubDate>Wed, 27 Apr 2016 22:27:00 GMT</pubDate>
+            <pubDate>Wed, 27 Apr 2016 22:33:03 GMT</pubDate>
         </item>
     </channel>
 </rss>
