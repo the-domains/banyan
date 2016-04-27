@@ -4,8 +4,15 @@
         <description><![CDATA[banyan]]></description>
         <link>https://thegrid.ai/banyan/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 27 Apr 2016 22:44:41 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Apr 2016 22:53:01 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/banyan/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Banyan Rentals]]></title>
+            <description><![CDATA[<p>The Association does not rent apartments. The Association of Apartment Owners (AOAO) manages Waikiki Banyan’s common elements but we are not realtors and we have no information regarding rental or sales of Waikiki Banyan units. The Association has no contact person for such information.</p>]]></description>
+            <link>https://thegrid.ai/banyan/banyan-rentals/index.html</link>
+            <guid isPermaLink="false">bb01e329-6640-49fc-a298-c442da5324a5</guid>
+            <pubDate>Wed, 27 Apr 2016 22:53:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Drain Line Replacement]]></title>
             <description><![CDATA[<p>We are nearly finished with the Tower 2, 13-stack drain line replacement. After the T2 13-stack is finished, we will move to the 13-stack in Tower 1.</p>]]></description>
